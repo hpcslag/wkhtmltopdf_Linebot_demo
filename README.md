@@ -20,3 +20,4 @@ Checklist:
  ```
  yum install wqy-zenhei-fonts
  ```
+ - warring the `python` img file path, if you use `//xxxxdakamaized.net/images/xxxx.jpg`, please change to `https://`

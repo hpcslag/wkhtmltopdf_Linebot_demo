@@ -17,3 +17,6 @@ Checklist:
 
  - wkhtmltopdf command is worked (mind: source .bashrc link bin path of `wkhtmlpdf`)
  - chinese or other language font is installed (refer: https://github.com/wkhtmltopdf/wkhtmltopdf/issues/2886)
+ ```
+ yum install wqy-zenhei-fonts
+ ```
